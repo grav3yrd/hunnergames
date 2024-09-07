@@ -13,7 +13,7 @@ function getRandomGreeting() {
     "Made by EclipsarGames!",
     "Reload the page NOW!",
     "Downloading your passwords...",
-    "Running Umbrion.exe",
+    "Running",
     "WARNING: You may lose braincells if you proceed!",
     "Do you bite your ice cream?",
     "#Relatable",
@@ -32,7 +32,8 @@ function getRandomGreeting() {
     "I'm Slim Shady, yes, I'm the real Shady!",
     "You're a real jerk!",
     "w h a t",
-    "Umbrion.net is here!",
+    "Sigma
+    "!",
     "what the dog doin?",
     "I'm gonna pop some tags",
     "Shoutout to 4chan!",
